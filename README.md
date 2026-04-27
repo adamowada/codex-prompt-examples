@@ -18,7 +18,7 @@ by Adam Owada
 
 ### Coding and Testing
 
-> Implement stages 6 and 7. Make sure you write tests for each stage, and validate your work with the tests and smoke tests. Regression tests should be in place before major features are added or changed. If there is anything you need from the user to progress you must let me know. After these 2 stages are done, write a short developer style commit message describing the work.
+> Implement stages 3 and 4. Make sure you write tests for each stage, and validate your work with the tests and smoke tests. Regression tests should be in place before major features are added or changed. If there is anything you need from the user to progress you must let me know. After these 2 stages are done, write a short developer style commit message describing the work.
 
 ### Code Review (new thread)
 
