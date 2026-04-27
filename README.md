@@ -9,7 +9,7 @@ by Adam Owada
 > - What are the remaining milestones before reaching the defined MVP?
 
 > Thank you. Please give a detailed explanation for "2. Production Auth, Memberships, And Invitations" as a milestone, including "done when".
-> 
+
 > Repeat for Milestone 3.
 
 > The next major milestone is: <milestone_title>. Don't code anything yet. Create a thorough, multi-stage plan, to take the current code base to the "done when" and goal of this milestone.
