@@ -1,5 +1,5 @@
-# codex-prompt-examples
-## Adam Owada
+# Codex Prompt Examples
+by Adam Owada
 
 ### Planning
 
